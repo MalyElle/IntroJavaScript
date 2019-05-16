@@ -1,2 +1,2 @@
-# Review2JS
+# IntroJavaScript
 More into JS and  loopy
