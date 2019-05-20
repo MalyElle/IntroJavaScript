@@ -45,3 +45,14 @@ anObject2.age = 26;
 console.log(anObject2._age);
 
 let theAge = anObject2.age;
+
+// How to Loop through Object
+let objectKeys = Object.keys(anObject);
+let objectValues = Object.values(anObject);
+
+objectKeys.forEach( x => {
+    console.log(x);
+})
+objectValues.forEach( x =>{
+    console.log(x);
+})
